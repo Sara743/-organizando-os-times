@@ -28,19 +28,19 @@ https://github.com/Sara743/-organizando-os-times
 
 ![plot](./passos_resolucao/passo_5.jpeg)
 
-#### 2.2  Comando GIT ADD
+### 2.4 Comando GIT REMOTE ADD 
 
 ![plot](./passos_resolucao/passo_6.jpeg)
 
-
-#### 2.3  Comando GIT COMMIT 
+#### 2.2  Comando GIT ADD
 
 ![plot](./passos_resolucao/passo_7.jpeg)
 
-### 2.4 Comando GIT REMOTE ADD 
+#### 2.3  Comando GIT COMMIT 
 
-![plot](./passos_resolucao/passo_7.5.jpeg)
+![plot](./passos_resolucao/passo_8.jpeg)
+
 
 ### 2.4 Comando GIT PUSH
 
-![plot](./passos_resolucao/passo_8.jpeg)
+![plot](./passos_resolucao/passo_9.jpeg)
