@@ -32,4 +32,3 @@ def formar_times():
         print() # Linha em branco após cada time
          
 formar_times()
-        
